@@ -12,6 +12,22 @@
     position: fixed;
     bottom: 0;
 }
+footer.footer {
+  background-color: black;
+  color: yellow;
+  font-weight: 700;
+  text-align: center;
+  padding: 20px;
+  margin-top: auto;
+}
+
+.video {
+  display: block;
+  margin: 35px auto;
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+}
 @media (min-width: 768px) {
     .footer {
         flex-direction: row;
@@ -260,13 +276,5 @@ ul {
     background-color: #000;
     width: 100%;
     padding-left: 60px;
-}
-
-.video {
-    display: block;
-    margin: 35px auto;
-    width: 100%;
-    max-width: 800px;
-    height: auto;
 }
 
