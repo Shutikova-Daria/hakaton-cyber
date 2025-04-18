@@ -9,19 +9,9 @@
     align-items: center;
     padding: 20px;
     gap: 20px;
-}
-
-   .footer1 {
     position: fixed;
     bottom: 0;
-    width: 100%;
-    background-color:black;
-    color: yellow;
-    text-align: center;
-    padding: 10px 0;
-    font-family: Arial, sans-serif;
-    z-index: 1000;
-  }
+}
 @media (min-width: 768px) {
     .footer {
         flex-direction: row;
