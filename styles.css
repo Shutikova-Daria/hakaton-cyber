@@ -265,9 +265,6 @@ ul {
 .video {
     display: block;
     margin: 35px auto;
-    width: 100%;
-    max-width: 800px;
-    max-height: 600px;
     height: auto;
 }
 
