@@ -262,5 +262,10 @@ ul {
 }
 
 .video {
-    margin: 35px 350px;
+    display: block;
+    margin: 35px auto;
+    width: 100%;
+    max-width: 800px;
+    height: auto;
 }
+
